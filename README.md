@@ -2,7 +2,7 @@
 
 for some header element, like:
 
-<a href="#" class="nav active-walker" data-active-when=".section-1"></a>
+`<a href="#" class="nav active-walker" data-active-when=".section-1"></a>`
 
 ActiveWalker.watch('.active-walker')
 
